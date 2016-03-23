@@ -1,0 +1,28 @@
+name: LifeIsShor
+favicon: null
+layout_spectrum: 0.6937876094598323
+typography_spectrum: 0.1457541612908244
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.09860201342962682
+  lightness: 0.5643628248944879
+  saturation: 0.46626927773468196
+  rhythmicContrast: 0.8738584793172777
+purpose: []
